@@ -53,7 +53,7 @@ python main.py [--shortcut] [--validate]
 Options:
 
 - `--shortcut`: identify key financial terms before AI analysis to save time and tokens.
-- `--validate`: verify tickers at the end using Yahoo Finance information.
+- `--validate`: verify extracted ticker symbols before generating the final report.
 
 ## Credentials
 
